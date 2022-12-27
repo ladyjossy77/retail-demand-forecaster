@@ -75,19 +75,20 @@
     /* display: flex;
     justify-content: space-between;
     border: 1px solid red; */
-    border-radius: 0px 50px 50px 0px;
+    border-radius: 15px;
     background-color: #602BF8;
     height: 350px;
     padding: 20px;
-    /* margin-left: 5px; */
+    margin-left: 10px;
     margin-top: 15px;
     margin-bottom: 50px;
     margin-right: 20px;
-    width: 135px;
+    width: 145px;
     color: #ffff;
     font-family: Ubuntu-Light;
     font-size: 15px;
     font-weight: bold;
+    box-shadow: 3px 3px 5px 5px #EFEAFE;
 
 }
 
